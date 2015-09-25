@@ -165,11 +165,11 @@ CONTACT
 }
 
 .contact-info li.phone a {
-  background-image: url('../img/phone.png');
+  background-image: url('https://41.media.tumblr.com/975de3e8c6a09169eb1905fb20962180/tumblr_nv7m8rRrVG1ufgj28o7_75sq.png');
 }
 
 .contact-info li.mail a{
-  background-image: url('../img/mail.png');
+  background-image: url('https://40.media.tumblr.com/02034b17864a7a71a8c42273f5625dc1/tumblr_nv7m8rRrVG1ufgj28o6_75sq.png');
 }
 
 /**********************************
